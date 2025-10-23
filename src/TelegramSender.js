@@ -55,7 +55,7 @@ const TelegramSender = () => {
         alignItems: "center",
       }}
     >
-      <h2>Запись</h2>
+      <h2>Трубки</h2>
 
       <input
         type="text"
